@@ -8,5 +8,7 @@ Try it out : [Link](https://contact-keeper5000.herokuapp.com/login)
 
 Install dependencies
 
-```npm install
-npm client-install```
+```
+npm install
+npm client-install
+```
